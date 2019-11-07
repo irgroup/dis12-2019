@@ -1,2 +1,4 @@
 # macbook extension
 .DS_Store
+#PythonNotebook
+.ipynb_checkpoints
